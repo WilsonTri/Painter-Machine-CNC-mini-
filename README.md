@@ -6,7 +6,7 @@ The machine uses:
 -2 motor control modules L298
 -arduino uno R3
 
-#Required Software
+# Required-Software
  - Inkscape
  - Arduino IDE
  - Processing IDE
